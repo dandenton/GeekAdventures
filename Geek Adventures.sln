@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geek Adventures", "Geek Adventures\Geek Adventures.csproj", "{627F75F0-326C-40FA-BAD5-9C283F459437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary", "..\GameLibrary\GameLibrary\GameLibrary.csproj", "{82B7FE9E-0AFC-46C0-9A4E-8534AEE41093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geek AdventuresContent", "Geek Adventures\Content\Geek AdventuresContent.contentproj", "{E211A7F6-13F3-4EAB-9B38-BCC19AE5B8A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{627F75F0-326C-40FA-BAD5-9C283F459437}.Debug|x86.ActiveCfg = Debug|x86
+		{627F75F0-326C-40FA-BAD5-9C283F459437}.Debug|x86.Build.0 = Debug|x86
+		{627F75F0-326C-40FA-BAD5-9C283F459437}.Release|x86.ActiveCfg = Release|x86
+		{627F75F0-326C-40FA-BAD5-9C283F459437}.Release|x86.Build.0 = Release|x86
+		{82B7FE9E-0AFC-46C0-9A4E-8534AEE41093}.Debug|x86.ActiveCfg = Debug|x86
+		{82B7FE9E-0AFC-46C0-9A4E-8534AEE41093}.Debug|x86.Build.0 = Debug|x86
+		{82B7FE9E-0AFC-46C0-9A4E-8534AEE41093}.Release|x86.ActiveCfg = Release|x86
+		{82B7FE9E-0AFC-46C0-9A4E-8534AEE41093}.Release|x86.Build.0 = Release|x86
+		{E211A7F6-13F3-4EAB-9B38-BCC19AE5B8A1}.Debug|x86.ActiveCfg = Debug|x86
+		{E211A7F6-13F3-4EAB-9B38-BCC19AE5B8A1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
